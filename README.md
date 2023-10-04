@@ -1,1 +1,1 @@
-a team project to create own shell 
+a team project to create own simple shell 
