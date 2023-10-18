@@ -29,6 +29,6 @@ int main(int ac, char **argv)
 		if (!command)
 			continue;
 		exit_status = _execute(command, argv);
-		free (chaine);
-	}	
+		free(chaine);
+	}
 }
